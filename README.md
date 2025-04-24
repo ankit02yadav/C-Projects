@@ -58,26 +58,26 @@ Run the application:
 💡 On Windows, use gcc main.c -o app.exe and then run app.exe.
 
 ## 📂 File Structure
-
+```pqsql
 .
-├── bakery/  \n
-│   ├── bms.c \n
-│   ├── menu.csv \n
-│   ├── customer.csv \n
-│   ├── admin.csv \n
-│   └── id_alloted.csv \n
-├── games/ \n
-│   └── games.c \n
-├── day date/ \n
-│   └── day_tm.c \n
-├── to do list/ \n
-│   └── tdlist.c \n
-├── students record/ \n
-│   └── students.c \n
-├── movie recommand/ \n
-│   └── movie.c \n
-└── main.c \n
-
+├── bakery/  
+│   ├── bms.c 
+│   ├── menu.csv
+│   ├── customer.csv 
+│   ├── admin.csv 
+│   └── id_alloted.csv 
+├── games/ 
+│   └── games.c 
+├── day date/ 
+│   └── day_tm.c 
+├── to do list/ 
+│   └── tdlist.c 
+├── students record/ 
+│   └── students.c 
+├── movie recommand/ 
+│   └── movie.c 
+└── main.c 
+```
 # ✅ Features
 - Modular design for better code management
 - Real-time system date and time logging
